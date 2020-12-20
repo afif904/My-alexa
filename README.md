@@ -4,10 +4,10 @@ Build your artificial Intelligent.
 
 Run following commands:
 
-pip install pyttsx3
+pip install pyttsx3 (for text to speech )
 
-pip install pywhatkit
+pip install pywhatkit (for advance control on browser)
 
-pip install wikipedia
+pip install wikipedia (To get wikipedia data)
 
-pip install pyjokes.
+pip install pyjokes.(To get funny jokes)
